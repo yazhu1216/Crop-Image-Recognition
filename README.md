@@ -1,7 +1,19 @@
 
 # TEAM_271
 
+## 套件(函式庫)：
+-	tensorflow 2.0.9
+-	numpy 1.22.3
+-	os
+-	shutil
+-	json
+-	tensorflow_addons 0.15.0
+-	sklearn 0.24.0
+-	cv2
 
+## 輸出/輸入：
+
+![](https://i.imgur.com/48J1Hhb.png)
 
 ## Googlenet_model.py
 訓練GoogLeNet（Inception）V1 + Dual Attention Network
